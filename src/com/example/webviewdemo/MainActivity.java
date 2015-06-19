@@ -19,6 +19,7 @@ public class MainActivity extends Activity {
 	private ProgressBar mProgressBar;
 	private TextView titleTextView;
 	
+	
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
